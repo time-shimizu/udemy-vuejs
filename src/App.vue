@@ -9,7 +9,7 @@
 import LikeHeader from "./LikeHeader.vue";
 
 export default {
-  compotents: {
+  components: {
     LikeHeader
   }
 }
