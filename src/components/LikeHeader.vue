@@ -1,6 +1,7 @@
 <template>
   <div>
-    <slot>デフォルトのタイトル</slot>
+    <slot></slot>
+    <slot></slot>
   </div>
 </template>
 
