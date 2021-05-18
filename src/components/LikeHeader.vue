@@ -1,7 +1,7 @@
 <template>
   <div>
     <slot name='title'></slot>
-    <p>いいねの数</p>
+    <p>いいね数</p>
     <slot name='number'></slot>
   </div>
 </template>
